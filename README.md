@@ -14,7 +14,7 @@ Elige un concepto que sea difícil para ti de Javascript (funciones, promesas, a
 
 **Prompt original** — `Quiero que me expliques cómo funcionan los objetos en JavaScript. Actúa como un Desarrollador Senior. Explícamelo en términos de Sakura Card Captor. Este contenido está dirigido hacia mi, una desarrolladora Jr con nociones introductorias de JavaScript. Crea una explicación breve y concisa. Quiero entender la complejidad del tema en términos que pueda digerir fácilmente con un tema que me gusta y entiendo.`
 
-![1](resources\1.png) 
+![1](resources/1.png) 
 
 ![2](resources\2.png)
 
