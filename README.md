@@ -16,11 +16,11 @@ Elige un concepto que sea difícil para ti de Javascript (funciones, promesas, a
 
 ![1](resources/1.png) 
 
-![2](resources\2.png)
+![2](resources/2.png)
 
-![3](resources\3.png)
+![3](resources/3.png)
 
-![4](resources\4.png)
+![4](resources/4.png)
 
 ## FASE 2 - Desarrollo y desafío del sesgo
 
@@ -28,7 +28,7 @@ Escoge la idea más original. Pide a la IA que te sugiera una solución que romp
 
 **Prompt de Desarrollo y desafío del sesgo** — `Ahora con esta información sugiéreme una aplicación de este concepto con un enfoque no tradicional, desarrolla la idea con un código funcional .js en donde se vea la aplicación del concepto de objeto junto con una  práctica no común entre desarrolladores, pero que siga siendo válida dentro de JavaScript.`
 
-![5](resources\5.png)
+![5](resources/5.png)
 
 ```bash
 
@@ -102,7 +102,7 @@ const resultadoNocturno = invocarCarta('Nocturno');
 console.log('Resultado:', resultadoNocturno);
 
 ```
-![6](resources\6.png)
+![6](resources/6.png)
 
 ```bash
 switch (nombreCarta) {
@@ -116,7 +116,7 @@ switch (nombreCarta) {
 }
 
 ```
-![7](resources\7.png)
+![7](resources/7.png)
 
 ## FASE 3 - Revisión y refinamiento/evaluación
 
@@ -197,11 +197,11 @@ console.log('Resultado:', resultadoNocturno);
 
 ```
 
-![8](resources\8.png)
+![8](resources/8.png)
 
-![9](resources\9.png)
+![9](resources/9.png)
 
-![10](resources\10.png)
+![10](resources/10.png)
 
 ```bash
 
@@ -219,7 +219,7 @@ function invocarCarta(nombreCarta, ...parametros) {
 }
 
 ```
-![11](resources\11.png)
+![11](resources/11.png)
 
 ```bash
 
@@ -244,7 +244,7 @@ function invocarCarta(nombreCarta, ...parametros) {
 }
 
 ```
-![12](resources\12.png)
+![12](resources/12.png)
 
 ```bash
 
@@ -271,7 +271,7 @@ function invocarCarta(nombreCarta, ...parametros) {
 
 **Prompt para Implementar y Documentar los cambios** — `Implementa estas optimizaciones en el código original para ver las diferencias, por favor.`
 
-![13](resources\13.png)
+![13](resources/13.png)
 
 ```bash
 
@@ -360,13 +360,13 @@ const resultadoNocturno = invocarCarta('Nocturno');
 console.log('Resultado:', resultadoNocturno);
 
 ```
-![14](resources\14.png)
+![14](resources/14.png)
 
 ## FASE 4 - Presentación y colaboración
 
 Usa la IA Generativa (prompts de imagen, diagramas de código como Mermaid/Graphviz) para crear un esquema visual, diagrama o infografía que explique la parte más compleja o inusual de tu solución a un público no técnico.
 
-![mermaid-ai-diagram](resources\mermaid-ai-diagram.png)
+![mermaid-ai-diagram](resources/mermaid-ai-diagram.png)
 
 ## CONCLUSIÓN
 
